@@ -1,0 +1,2 @@
+# How-have-countries-performed-in-the-IMO-over-the-past-30-years-
+This project explores the International Mathematical Olympiad dataset (https://github.com/rfordatascience/tidytuesday/blob/main/data/2024/2024-09-24/readme.md), published in September 2024. The dataset contains the IMO results from 1959 to 2024, which captures individual and team results, including scores, individual rankings, and medal counts
